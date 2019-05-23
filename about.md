@@ -22,19 +22,19 @@ So instead, I invite you to read this blog, to follow as I self-examine my own t
 
 Roughly in order of when I plan to write these:
 
-who we were and why we should really talk about this more
-how to make interesting conversation
-the most memorable and influential things from the last 21 years
-on my experiences with working hard and the eighty + hour work week
-on failure
-on how to pick your friends
-on becoming successful 
-making good decisions and reinforcement learning
-the value of being introspective 
-on seeing other people suffer
-on being judgmental 
-on dating, romance, relationships, and love
-on mental health, depression
+1. who we were and why we should really talk about this more
+2. how to make interesting conversation
+3. the most memorable and influential things from the last 21 years
+4. on my experiences with working hard and the eighty + hour work week
+5. on failure
+6. on how to pick your friends
+7. on becoming successful 
+8. making good decisions and reinforcement learning
+9. the value of being introspective 
+10.  on seeing other people suffer
+11.  on being judgmental 
+12.  on dating, romance, relationships, and love
+13.  on mental health, depression
 
 ### Contact me
 
