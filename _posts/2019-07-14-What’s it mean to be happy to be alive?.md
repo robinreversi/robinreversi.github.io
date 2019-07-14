@@ -11,7 +11,7 @@ But I didn’t do much to explain or defend the idea aside from a single example
 
 Naturally, there are some questions. 
 
-*Q: Isn’t this a circular definition? What do you mean by “happy to be alive?” How is that different from being just “happy"?*
+**Q: Isn’t this a circular definition? What do you mean by “happy to be alive?” How is that different from being just “happy"?**
 
 Imagine you were sold an experience, and you were asked how happy you were with the experience.
 
@@ -47,7 +47,7 @@ But ask yourself both whether you’re capital-H happy and how you would rate yo
 
 In one case, you have a vague abstract notion to deal with. In the other, it’s a simple question of: am I getting what I want out of life? 
 
-*Q: Isn’t what you’re describing here just satisfaction? Why not just say “happiness is how satisfied you feel to be alive”?*
+**Q: Isn’t what you’re describing here just satisfaction? Why not just say “happiness is how satisfied you feel to be alive”?**
 
 Let’s say you order a vacuum cleaner, and it arrives, and it’s way better than you expected. It leaves your floors spick and span, makes no noise, is easy to push, gets the corners, and is completely wireless, without any of the weak battery issues that usually come with wireless things. Not only that, but this vacuum cleaner is the cheapest on the market and not just relatively cheap. It’s really a good price, and it comes with a warranty, one you’ll probably never need because this thing seems built to last.
 
@@ -59,7 +59,7 @@ I’m not sure if “happy" is the right word to describe all these things eithe
 
 You might say you can be intensely, deeply satisfied, but the connotation there, to me, feels too subdued.
 
-*Q: If you’re not happy to be alive, that seems to suggest you’d prefer to be dead, but that’s not always true. Isn’t that an issue?*
+**Q: If you’re not happy to be alive, that seems to suggest you’d prefer to be dead, but that’s not always true. Isn’t that an issue?**
 
 You can be absolutely miserable, completely unhappy to be alive, and yet still want to live. There are five cases I can think of.
 
@@ -75,7 +75,7 @@ The fifth is jarring and personal. Fear of pain. I think this is one you need to
 
 There are many reasons, in other words, why we choose to live beyond just happiness. How happy we are to be alive is not the only thing that determines whether we want to live. 
 
-*Q: Alright, so what’s this imply about how we should live?*
+**Q: Alright, so what’s this imply about how we should live?**
 
 First, consider another obvious revelation: life is not a product that is sold to you, complete and packaged and boxed away. It’s one that we actively take part in constructing. We are both the consumers and the producers of our lives. 
 
