@@ -5,6 +5,8 @@ tags: [part1, middle school, medium, personal]
 comments: True
 ---
 
+[CONTENT WARNING: SUICIDE, DEPRESSION, BULLYING]
+
 As a kid, I always believed, secretly, that I could control the wind.
 
 I believed that with twirls of the hands, flicks of the wrist, smooth, undulating movements of the arm, I could conjure the wind to appear and disappear, to rise and dwindle, sometimes even roar and whimper — but those were harder for me. 
