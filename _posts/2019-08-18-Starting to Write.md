@@ -49,10 +49,10 @@ Before I go though, I just wanted to thank you all for reading my blog until now
 
 I also wanted to thank a few other people for inspiring me to write in the first place.
 
-Sam Kwong, probably the biggest inspiration with his Hundred Days of Reflection which sparked both my interest and my competitive instinct
-Chip Huyen, whose Learn 365 blog was the first student blog I ever read and convinced me someone my age could write something worth reading 
-Andrew Huang, who boldly published his blog to Facebook and showed me that people would read your stuff if you sent it
-Rachel Cheong, my sister, who probably kept me from becoming a savant like robot, instead teaching me to appreciate nuance and writing and emotion
+- Sam Kwong, probably the biggest inspiration with his Hundred Days of Reflection which sparked both my interest and my competitive instinct
+- Chip Huyen, whose Learn 365 blog was the first student blog I ever read and convinced me someone my age could write something worth reading 
+- Andrew Huang, who boldly published his blog to Facebook and showed me that people would read your stuff if you sent it
+- Rachel Cheong, my sister, who probably kept me from becoming a savant like robot, instead teaching me to appreciate nuance and writing and emotion
 
 All in all, I would give myself a B+. There were many, many things I could have done better, but it was a solid effort, with more than a few pieces where I felt like I captured what I wanted to say — Making Small Talk Interesting, Fencing, The End of an Era, What’s it mean to be happy to be alive? — and many more I learned a lot from writing, even if not the best.
 
