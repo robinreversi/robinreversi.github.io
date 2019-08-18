@@ -5,8 +5,6 @@ tags: [quarter-reflection, short, writing]
 comments: True
 ---
 
-# Reflection
-
 This post marks the thirteen post I’ll have made, which means it’s been exactly a quarter of a year since I started writing. I wanted to make a special recap post every thirteen weeks documenting what it’s been like to write this blog.
 
 I thought about starting this recap post by revisiting why I started writing, but the more I tried, the more I realized I already said everything I needed to in the Intro post. I found myself quoting lines rather than adding substance, and I think, having read a bit more about the chronology of my life now, the Intro, ironically, will make a lot more sense, especially why I started writing. 
